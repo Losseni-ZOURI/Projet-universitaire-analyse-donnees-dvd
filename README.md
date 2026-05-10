@@ -3,8 +3,7 @@ Ce projet universitaire a pour objectif d’analyser les données d’un loueur 
 
 
 
-
-# La partie SQL du projet a pour but d’extraire les indicateurs nécessaires au reporting Excel. Les requêtes sont regroupées en trois axes : catégories de films, vision clients et vision locations. Chaque requête est commentée pour faciliter la lecture et la réutilisation
+La partie SQL du projet a pour but d’extraire les indicateurs nécessaires au reporting Excel. Les requêtes sont regroupées en trois axes : catégories de films, vision clients et vision locations. Chaque requête est commentée pour faciliter la lecture et la réutilisation
 
 ## Catégories de films :
 ### Nombre de locations par catégorie :
